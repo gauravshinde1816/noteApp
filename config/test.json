@@ -1,0 +1,4 @@
+{
+    "MONGO_URI": "mongodb+srv://gaurav:gaurav123@cluster0.ffhnw.mongodb.net/NoteSharingAppTestDB?retryWrites=true&w=majority",
+    "jwtSecret": "secret"
+}
