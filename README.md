@@ -13,6 +13,7 @@
    - To containerize backend API
    - I have hosted the image for my public docker hub repository.
    - Will provide the compose file for the same.
+   - As of now there is only one backend image but more images can be added for frontend and database services etc 
 
 ### 💡 External Tools:
 
