@@ -27,10 +27,6 @@
 6. supertest : To test the API
 
 
-### 💡 Postman Collection
-- `https://api.postman.com/collections/13215960-3a86f4b1-dab9-4eed-a0d6-e399d52abf53?access_key=PMAT-01HK9F02NJ9AH84M4179MHB95Q`
-
-
 ### 💡 Local Setup Guide
 1. Clone the project
 ` git clone https://github.com/gauravshinde1816/noteApp.git`
@@ -45,14 +41,17 @@
    - `npm start`
 4. Backend will start on `http://localhost:5000`.
 
-5. Import the postman collection provided above and you will be able to run the APIs
+5. Import the postman collection provided below and you will be able to run the APIs
 
 ### 💡 Docker Setup Guide
 
 - Run `docker-compose up -d`.
 - Backend will start on `http://localhost:5000`.
-- Import the postman collection provided above and you will be able to run the APIs
+- Import the postman collection provided below and you will be able to run the APIs
 
+
+### 💡 Postman Collection
+- `https://api.postman.com/collections/13215960-3a86f4b1-dab9-4eed-a0d6-e399d52abf53?access_key=PMAT-01HK9F02NJ9AH84M4179MHB95Q`
 
 ### 💡 Run API tests
 - Run `npm run test`.
